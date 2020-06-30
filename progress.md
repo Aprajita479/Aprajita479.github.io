@@ -20,4 +20,27 @@
     -Download editor
     -youtube
     -google
+	
+	
+## Day 3	
+-List of things learnt
+ -Different type of Stylesheets
+ -Selectors
+ -Basic Styling such as font-size, width, etc.
+ -Color formats
+ -Box Model
+ -Display, Positon and Float
+ -Psuedo Classes and Combinators
+ -Fluid Layouts
+ -Media Queries
+ -Flexbox and Grids
+ -Transforms, Transitions and Animations
+ 
+ 
+ - Any useful resource found
+    -w3 school
+    -Download editor
+    -youtube
+    -google
+ 
 **Repeat this for all 7 days**
