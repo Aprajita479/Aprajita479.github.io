@@ -43,16 +43,17 @@
     -youtube
     -google
  
- ## Day 3	
+ ## Day 4	
 -List of things learnt
 -adding css effects
 -boostrap
 -responsive website
 -animation
+-transition
+-psuedo class hovering effect 
 
 - Any useful resource found
     -w3 school
-    -Download editor
     -youtube
     -google
 **Repeat this for all 7 days**
