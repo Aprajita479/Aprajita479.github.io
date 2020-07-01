@@ -45,18 +45,18 @@
 ![](../memes/m13.jpeg)
 
 ## Day 4
-- [ ] Start adding some CSS to your project. Keep all the css in **<project_dir>/assets/css/** folder.
-- [ ] You can also use Bootstrap or any other Framework for styling.
-- [ ] Add the CSS file in your index.html using **link** tag
+- [x] Start adding some CSS to your project. Keep all the css in **<project_dir>/assets/css/** folder.
+- [x] You can also use Bootstrap or any other Framework for styling.
+- [x] Add the CSS file in your index.html using **link** tag
 
 <!-- Add some specific tasks to be performed using html. For example, use of @media, zoom on hover etc. etc -->
-- [ ] Create atleast one animation, transformation and transition using only CSS.
-- [ ] Use Flexbox atleast for one section.
-- [ ] Use Psuedo Classes atleast once.
-- [ ] Use Descendant Selector atleast once.
-- [ ] Make the website responsive.
+- [x] Create atleast one animation, transformation and transition using only CSS.
+- [x] Use Flexbox atleast for one section.
+- [x] Use Psuedo Classes atleast once.
+- [x] Use Descendant Selector atleast once.
+- [x] Make the website responsive.
 
-- [ ] So, that's a lot of learning for 3 days straight. Go watch <a href="https://www.youtube.com/watch?v=D8c4JZW73cM">this</a>, have  a coffee and get back because **CODERS NEVER QUIT, QUITTERS NEVER CODE**
+- [x] So, that's a lot of learning for 3 days straight. Go watch <a href="https://www.youtube.com/watch?v=D8c4JZW73cM">this</a>, have  a coffee and get back because **CODERS NEVER QUIT, QUITTERS NEVER CODE**
 
 ## Day 5(JS)
 
