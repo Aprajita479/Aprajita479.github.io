@@ -56,4 +56,25 @@
     -w3 school
     -youtube
     -google
+	
+	
+## Day 5	
+-Types, Variables and Scoping
+ -Objects and Functions
+ -The DOM
+ -Events and EventListeners
+ -Flow Control
+ -ES6
+ - JQuery, React,
+ 
+- Any useful resource found	
+  -MDN Web Docs
+  -Eloquent Javascript Book for reference
+  -w3 school
+  -youtube
+  -google
+	
+	
+	
+	
 **Repeat this for all 7 days**
