@@ -59,13 +59,14 @@
 	
 	
 ## Day 5	
--Types, Variables and Scoping
- -Objects and Functions
- -The DOM
- -Events and EventListeners
- -Flow Control
- -ES6
- - JQuery, React,
+-List of things learnt
+  -Types, Variables and Scoping
+  -Objects and Functions
+  -The DOM
+  -Events and EventListeners
+  -Flow Control
+  -ES6
+  - JQuery, React,
  
 - Any useful resource found	
   -MDN Web Docs
@@ -74,7 +75,13 @@
   -youtube
   -google
 	
-	
-	
-	
+## Day 6 	
+-List of things learnt
+  -Addition of the JS script in index.html using <script> 
+  -animation effect using javascript
+  -eventlisterner
+ 
+ - Any useful resource found	
+  -MDN Web Docs
+  -Eloquent Javascript Book for reference
 **Repeat this for all 7 days**
