@@ -84,4 +84,12 @@
  - Any useful resource found	
   -MDN Web Docs
   -Eloquent Javascript Book for reference
+  
+ ##Day 7
+ -List of things learnt
+   -forked repository in sync with the actual repository
+   -Pull Request to the Repository on EEESoc Organisation
+
+ - Any useful resource found	   
+     -Senior Bhyya
 **Repeat this for all 7 days**

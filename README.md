@@ -90,12 +90,12 @@
    ![](../memes/m3.jpeg)
 
 ## Day 7
-- [ ] Make any final changes in your website, you still have time.
-- [ ] Make sure GitHub pages is enabled for your repository. <a href="https://help.github.com/en/enterprise/2.13/user/articles/configuring-a-publishing-source-for-github-pages">Go here to get help with this</a>
-- [ ] Visit **your_username.github.io**. That should be your portfolio.
-- [ ] Keep the forked repository in sync with the actual repository. Refer <a href="https://gist.github.com/CristinaSolana/1885435">this.</a>
-- [ ] In the synced fork on your repository, edit the README.md file to add your Name and the link to your portfolio.
-- [ ] Then make a Pull Request to the Repository on EEESoc Organisation from which you had first forked.
+- [x] Make any final changes in your website, you still have time.
+- [x] Make sure GitHub pages is enabled for your repository. <a href="https://help.github.com/en/enterprise/2.13/user/articles/configuring-a-publishing-source-for-github-pages">Go here to get help with this</a>
+- [x] Visit **your_username.github.io**. That should be your portfolio.
+- [x] Keep the forked repository in sync with the actual repository. Refer <a href="https://gist.github.com/CristinaSolana/1885435">this.</a>
+- [x] In the synced fork on your repository, edit the README.md file to add your Name and the link to your portfolio.
+- [x] Then make a Pull Request to the Repository on EEESoc Organisation from which you had first forked.
 
 ![](../memes/m10.jpeg)
 
