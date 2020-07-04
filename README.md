@@ -1,3 +1,8 @@
+
+NAME:APRAJITA KUMARI
+GITHUB LINK:https://aprajita479.github.io/
+
+
 ## Day 1
 - [x] Make sure you have gone through <a href="https://github.com/EEESocbitmesra/DEV_WEEK#tasks">this</a> before entering here.
 - [x] Make a new GitHub Repository with name **your_username.github.io** on your GitHub account.
@@ -98,6 +103,10 @@
 - [x] Then make a Pull Request to the Repository on EEESoc Organisation from which you had first forked.
 
 ![](../memes/m10.jpeg)
+
+
+
+
 
 ### Note:
 - Maintain a track of everything that you have learnt in <a href="./progress.md">progress.md</a> file.
