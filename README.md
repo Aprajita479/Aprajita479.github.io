@@ -1,7 +1,6 @@
 
-NAME:APRAJITA KUMARI
-GITHUB LINK:https://aprajita479.github.io/
-
+NAME:APRAJITA KUMARI           
+[PORTFOLIO LINK]https://aprajita479.github.io/         
 
 ## Day 1
 - [x] Make sure you have gone through <a href="https://github.com/EEESocbitmesra/DEV_WEEK#tasks">this</a> before entering here.
